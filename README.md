@@ -1,4 +1,4 @@
-### Hi there, I want to be a developer 👋
+### Hi there, I want to be a develover 👋
 ```
                              \\\\\\\
                             \\\\\\\\\\\\
